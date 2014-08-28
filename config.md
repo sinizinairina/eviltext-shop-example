@@ -1,0 +1,4 @@
+- Application : Blog
+- Title       : My Blog
+- About       : Life and Technology
+- Navigation  : Contact me, mailto:me@mail.com
