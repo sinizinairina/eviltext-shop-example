@@ -1,4 +1,7 @@
-- Application : Blog
-- Title       : My Blog
-- About       : Life and Technology
-- Navigation  : Contact me, mailto:me@mail.com
+- Application : Shop
+- Title       : Digital Cameras
+- About       : Best cameras in the world
+- Navigation  : Products, products, Contact us, pages/contacts
+- Details     : Tel.: <b>8 (222) 333-33-33</b><br/> Skype: <b>camstore</b>
+- Currency    : $
+- Slides      : slides/nikon-d3100-slide.jpg, slides/sony-alpha-slide.jpg
